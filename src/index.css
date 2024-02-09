@@ -1,0 +1,32 @@
+
+
+
+
+
+.main-window {
+  border: 2px solid black;
+  height: 800px;
+  width: 600px;
+  background-color: rgb(80, 72, 72);
+  color: wheat;
+  font-size: 100px;
+  
+}
+
+.btn-next-question {
+  border: 2px solid black;
+  height: 100px;
+  width: 50px;
+  background-color: aqua;
+  
+
+}
+
+
+.btn-answer {
+  border: 2px solid black;
+  height: 100px;
+  width: 50px;
+  background-color: aqua;
+
+}
